@@ -1,4 +1,4 @@
-Hello, I am Beth Ebert, i am a student, have a edu acc. 
+Hello, I am Beth Ebert, i am a student, have a edu acc. 👶😉😉👶😉
 
 <!---
 bebert5/bebert5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
