@@ -1,6 +1,6 @@
 Hello, I am Beth Ebert, i am a student. 👶😉😉👶😉
 
-Hello, hello ...
+I am a C++ developer.
 
 
 <!---
